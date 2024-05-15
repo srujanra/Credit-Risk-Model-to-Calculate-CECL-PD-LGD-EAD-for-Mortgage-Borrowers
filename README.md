@@ -3,7 +3,7 @@
 This repository contains the code and resources for a Credit Risk Modeling project aimed at calculating Current Expected Credit Loss (CECL) for mortgage borrowers. The project involves processing and analyzing a large dataset of mortgage data to develop models for Probability of Default (PD), Loss Given Default (LGD), and Exposure at Default (EAD).
 
 ## Project Overview
-
+<img src="Credit risk.png">
 ### Data Collection and Processing
 - **Dataset**: 300,000 mortgage records.
 - **Tools Used**: Python, NumPy, pandas, matplotlib, scikit-learn.
