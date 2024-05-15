@@ -50,7 +50,7 @@ Ensure you have the following libraries installed:
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/credit-risk-model-cecl.git
+git clone https://github.com/srujanra/credit-risk-model-cecl.git
 cd credit-risk-model-cecl
 ```
 
